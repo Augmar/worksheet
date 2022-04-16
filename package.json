@@ -2,6 +2,7 @@
   "name": "worksheet",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://augmar.github.io/worksheet/"
   "dependencies": {
     "@vkontakte/vk-bridge": "^2.5.3",
     "@vkontakte/vk-miniapps-deploy": "^0.0.26",
